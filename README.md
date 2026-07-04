@@ -10,8 +10,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0078-subsets) |
+| [0204-count-primes](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0204-count-primes) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
