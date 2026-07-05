@@ -41,13 +41,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0155-min-stack) |
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
