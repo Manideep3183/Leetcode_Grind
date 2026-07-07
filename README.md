@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0078-subsets) |
 | [0204-count-primes](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0204-count-primes) |
 | [0496-next-greater-element-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0496-next-greater-element-i) |
@@ -85,9 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0055-jump-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
