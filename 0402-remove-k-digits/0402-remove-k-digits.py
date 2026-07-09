@@ -1,7 +1,9 @@
 class Solution(object):
     def removeKdigits(self, num, k):
         stack = []
-        
+        if len(num) == k:
+            return '0'
+            
         for d in num:
 
             while stack and k > 0 and stack[-1] > d:
