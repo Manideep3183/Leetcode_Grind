@@ -3,13 +3,13 @@ class Solution(object):
         stack = []
         if len(num) == k:
             return '0'
-            
-        for d in num:
 
+        for d in num:
             while stack and k > 0 and stack[-1] > d:
                 stack.pop()
                 k -= 1
             stack.append(d)
+            
         # for sorted number
         if k > 0:
             stack = stack[:-k]
