@@ -1,5 +1,6 @@
 class Solution(object):
     def largestRectangleArea(self, heights):
+        heights.append(0)
         n = len(heights)
         maxArea = 0
         stack = []
@@ -11,10 +12,4 @@ class Solution(object):
                 pse = stack[-1] if stack else -1
                 maxArea = max(maxArea, heights[ele] * (nse - pse - 1))
             stack.append(i)
-        while stack:
-            ele = stack[-1]
-            stack.pop()
-            nse = n
-            pse = stack[-1] if stack else -1
-            maxArea = max(maxArea, heights[ele] * (nse - pse - 1))
         return maxArea
