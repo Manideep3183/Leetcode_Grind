@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0907-sum-of-subarray-minimums) |
+| [1331-rank-transform-of-an-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1331-rank-transform-of-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2104-sum-of-subarray-ranges) |
 ## Backtracking
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0496-next-greater-element-i) |
+| [1331-rank-transform-of-an-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1331-rank-transform-of-an-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0319-bulb-switcher) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
