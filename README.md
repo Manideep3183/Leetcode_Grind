@@ -65,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0155-min-stack) |
+| [0460-lfu-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0901-online-stock-span) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1331-rank-transform-of-an-array) |
 ## Monotonic Stack
@@ -91,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
 | ------- |
