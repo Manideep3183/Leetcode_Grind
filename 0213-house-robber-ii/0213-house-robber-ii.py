@@ -4,9 +4,9 @@ class Solution(object):
             return 0
         if len(nums) == 1:
             return nums[0]
-        a = 0
-        b = nums[0]
-        for num in nums[1:]:
+        a = nums[0]
+        b = max(nums[0],nums[1])
+        for num in nums[2:]:
             r = max(a + num,b)
             a = b
             b = r
