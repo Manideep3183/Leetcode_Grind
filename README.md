@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0319-bulb-switcher) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Enumeration
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0204-count-primes) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## String
 |  |
 | ------- |
