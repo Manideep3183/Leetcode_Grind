@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0424-longest-repeating-character-replacement) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0654-maximum-binary-tree) |
 | [0901-online-stock-span](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2104-sum-of-subarray-ranges) |
 ## Linked List
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
