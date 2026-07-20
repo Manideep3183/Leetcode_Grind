@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0992-subarrays-with-k-different-integers) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
