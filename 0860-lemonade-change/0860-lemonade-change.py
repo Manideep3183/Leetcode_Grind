@@ -6,11 +6,10 @@ class Solution(object):
             if bill == 5:
                 f += 1
             elif bill == 10:
-                if f :
-                    t += 1
-                    f -= 1
-                else:
+                if not f :
                     return False
+                t += 1
+                f -= 1
             else:
                 if f and t:
                     t -= 1
