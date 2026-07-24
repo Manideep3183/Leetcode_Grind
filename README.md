@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0078-subsets) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Array
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0204-count-primes) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
