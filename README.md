@@ -266,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
