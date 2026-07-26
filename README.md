@@ -271,4 +271,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0627-swap-sex-of-employees](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0627-swap-sex-of-employees) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1148-article-views-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
