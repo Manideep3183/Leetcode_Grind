@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0628-maximum-product-of-three-numbers) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0319-bulb-switcher) |
+| [0486-predict-the-winner](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0025-reverse-nodes-in-k-group) |
+| [0486-predict-the-winner](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0213-house-robber-ii) |
+| [0486-predict-the-winner](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -295,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
