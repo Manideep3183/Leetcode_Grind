@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1248-count-number-of-nice-subarrays) |
+| [1406-stone-game-iii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3312-sorted-gcd-pair-queries) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0907-sum-of-subarray-minimums) |
+| [1406-stone-game-iii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1406-stone-game-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -303,4 +306,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
