@@ -1,13 +1,11 @@
 class Solution(object):
     def smallestNumber(self, n, t):
         
-        def get_digit_product(num):
-            prod = 1
-            for digit in str(num):
-                prod *= int(digit)
-            return prod
-
         while True:
-            if get_digit_product(n) % t == 0:
-                return n
+            temp = n
+            prod = 1
+            while temp > 0:
+                prod *= temp % 10
+                temp //= 10
+            if prod % t == 0: return n
             n += 1
