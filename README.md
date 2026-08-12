@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2104-sum-of-subarray-ranges) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3731-find-missing-elements) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Brainteaser
 |  |
 | ------- |
