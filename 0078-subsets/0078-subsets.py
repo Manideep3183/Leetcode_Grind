@@ -1,15 +1,13 @@
-class Solution(object):
-    def subsets(self, nums):
+class Solution:
+    def subsets(self, nums: List[int]) -> List[List[int]]:
         res = []
-        n = len(nums)
-        subsets = 1 << n
-        for i in range(subsets):
-            subset = []
-            for j in range(n):
-                if i & (1 << j):
-                    subset.append(nums[j])
-            res.append(subset)
+        def backtrack(ind,path):
+            if ind == len(nums):
+                res.append(path[:])
+                return
+            path.append(nums[ind])
+            backtrack(ind+1,path)
+            path.pop()
+            backtrack(ind+1,path)
+        backtrack(0,[])
         return res
-                
-
-        
