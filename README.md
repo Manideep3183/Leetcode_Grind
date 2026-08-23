@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0078-subsets) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0424-longest-repeating-character-replacement) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0085-maximal-rectangle) |
@@ -399,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2029-stone-game-ix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
