@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0084-largest-rectangle-in-histogram) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
