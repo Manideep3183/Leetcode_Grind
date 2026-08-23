@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0239-sliding-window-maximum) |
+| [0410-split-array-largest-sum](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0496-next-greater-element-i) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0085-maximal-rectangle) |
 | [0198-house-robber](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0213-house-robber-ii) |
+| [0410-split-array-largest-sum](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0907-sum-of-subarray-minimums) |
 | [1140-stone-game-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1140-stone-game-ii) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3312-sorted-gcd-pair-queries) |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0930-binary-subarrays-with-sum) |
