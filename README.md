@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3979-maximum-valid-pair-sum](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3979-maximum-valid-pair-sum) |
 ## Backtracking
 |  |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Matrix
 |  |
 | ------- |
