@@ -1,13 +1,13 @@
-class Solution(object):
-    def nextGreaterElements(self, nums):
+class Solution:
+    def nextGreaterElements(self, nums: List[int]) -> List[int]:
+        st = []
         n = len(nums)
         nge = [0] * n
-        stack = []
         for i in range(2*n-1,-1,-1):
-            while stack and stack[-1] <= nums[i%n]:
-                stack.pop()
+            while st and st[-1] <= nums[i%n]:
+                st.pop()
             if i < n:
-                nge[i] = -1 if not stack else stack[-1]
-            stack.append(nums[i%n])
+                nge[i] = -1 if not st else st[-1]
+            st.append(nums[i%n])
         return nge
         
