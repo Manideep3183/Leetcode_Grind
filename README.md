@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0347-top-k-frequent-elements) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0724-find-pivot-index) |
