@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0084-largest-rectangle-in-histogram) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0085-maximal-rectangle) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0347-top-k-frequent-elements) |
 | [0654-maximum-binary-tree](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0654-maximum-binary-tree) |
 ## Tree
