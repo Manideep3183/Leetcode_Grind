@@ -1,17 +1,15 @@
-class Solution(object):
-    def isValid(self, s):
-        pairs = { '(':')','{':'}','[':']'}
-        stack = []
+class Solution:
+    def isValid(self, s: str) -> bool:
+        st =[]
+        pars = {')':'(', ']':'[','}':'{'} 
         for ch in s:
-            if ch in pairs:
-                stack.append(ch)
-            elif ch in pairs.values():
-                if not stack or pairs[stack[-1]] != ch:
+            if ch not in pars:
+                st.append(ch)
+            elif ch in pars:
+                if not st or st[-1] != pars[ch]:
                     return False
-                stack.pop()
-        if stack:
+                st.pop()
+
+        if st :
             return False
         return True
-                    
-
-        
