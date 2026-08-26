@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0085-maximal-rectangle) |
+| [0152-maximum-product-subarray](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0204-count-primes) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0085-maximal-rectangle) |
+| [0152-maximum-product-subarray](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0322-coin-change) |
