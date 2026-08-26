@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0076-minimum-window-substring) |
+| [0394-decode-string](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0503-next-greater-element-ii) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0025-reverse-nodes-in-k-group) |
+| [0394-decode-string](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
