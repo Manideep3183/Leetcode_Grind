@@ -10,7 +10,6 @@ class Solution(object):
                 k -= 1
             stack.append(d)
             
-        # for sorted number
         if k > 0:
             stack = stack[:-k]
 
