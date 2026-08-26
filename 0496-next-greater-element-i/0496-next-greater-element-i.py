@@ -1,27 +1,16 @@
-class Solution(object):
-    def nextGreaterElement(self, nums1, nums2):
-        stack = []
-        next_greater = {}
-
-        i = len(nums2) - 1
-
-        while i >= 0:
-            while stack and stack[-1] <= nums2[i]:
-                stack.pop()
-
-            if not stack:
-                next_greater[nums2[i]] = -1
+class Solution:
+    def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
+        st = []
+        nge = {}
+        for num in nums2[::-1]:
+            while st and st[-1] <= num:
+                st.pop()
+            if not st:
+                nge[num] = -1
             else:
-                next_greater[nums2[i]] = stack[-1]
+                nge[num] = st[-1]
+            st.append(num)
+        return [nge[num] for num in nums1]    
 
-            stack.append(nums2[i])
-            i -= 1
-
-        ans = []
-
-        for num in nums1:
-            ans.append(next_greater[num])
-
-        return ans
         
         
