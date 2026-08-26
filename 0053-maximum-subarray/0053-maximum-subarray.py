@@ -5,7 +5,5 @@ class Solution:
         for right in nums:
             curr += right
             max_sum = max(max_sum, curr)
-            if curr < 0:
-                curr = 0
-            
+            curr = max(curr, 0)
         return max_sum
