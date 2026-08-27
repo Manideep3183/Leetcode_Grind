@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1854-maximum-population-year) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1472-design-browser-history](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0155-min-stack) |
 | [0460-lfu-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1472-design-browser-history) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,11 +221,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0460-lfu-cache) |
+| [1472-design-browser-history](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0460-lfu-cache) |
+| [1472-design-browser-history](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -337,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1472-design-browser-history) |
 ## Binary Search
 |  |
 | ------- |
