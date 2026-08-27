@@ -381,10 +381,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0654-maximum-binary-tree](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0654-maximum-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0654-maximum-binary-tree](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0654-maximum-binary-tree) |
 ## Combinatorics
 |  |
@@ -439,11 +441,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0199-binary-tree-right-side-view) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0322-coin-change) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3310-remove-methods-from-project) |
