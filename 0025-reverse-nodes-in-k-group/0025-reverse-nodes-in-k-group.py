@@ -1,10 +1,10 @@
 # Definition for singly-linked list.
-# class ListNode(object):
+# class ListNode:
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-class Solution(object):
-    def reverseKGroup(self, head, k):
+class Solution:
+    def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
         node = head
         for _ in range(k):
             if not node:
@@ -19,3 +19,4 @@ class Solution(object):
             curr = nxt
         head.next = self.reverseKGroup(curr,k)
         return prev
+        
