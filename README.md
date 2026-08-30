@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Sliding Window
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1552-magnetic-force-between-two-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3731-find-missing-elements) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1552-magnetic-force-between-two-balls) |
+| [3281-maximize-score-of-numbers-in-ranges](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3532-path-existence-queries-in-a-graph-i) |
