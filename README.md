@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1480-running-sum-of-1d-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1552-magnetic-force-between-two-balls) |
 | [1854-maximum-population-year](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1854-maximum-population-year) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2029-stone-game-ix) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1552-magnetic-force-between-two-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3536-maximum-product-of-two-digits) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1552-magnetic-force-between-two-balls) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3532-path-existence-queries-in-a-graph-i) |
