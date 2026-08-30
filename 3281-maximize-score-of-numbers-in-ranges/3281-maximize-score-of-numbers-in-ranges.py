@@ -15,7 +15,7 @@ class Solution:
 
      
         low = 0
-        high = (start[-1] + d - start[0])
+        high = (start[-1] + d - start[0]) // (n-1)
         ans = 0
 
         while low <= high:
