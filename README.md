@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2029-stone-game-ix) |
 | [2104-sum-of-subarray-ranges](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2498-frog-jump-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2498-frog-jump-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3281-maximize-score-of-numbers-in-ranges) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2029-stone-game-ix) |
+| [2498-frog-jump-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2498-frog-jump-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3281-maximize-score-of-numbers-in-ranges) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1552-magnetic-force-between-two-balls) |
+| [2498-frog-jump-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2498-frog-jump-ii) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3501-maximize-active-section-with-trade-ii) |
