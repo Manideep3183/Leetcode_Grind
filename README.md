@@ -397,11 +397,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0654-maximum-binary-tree](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0654-maximum-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0654-maximum-binary-tree](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0654-maximum-binary-tree) |
 ## Combinatorics
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0547-number-of-provinces) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0322-coin-change) |
