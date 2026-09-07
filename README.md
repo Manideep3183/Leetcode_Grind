@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0204-count-primes) |
 | [0319-bulb-switcher](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0486-predict-the-winner) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0424-longest-repeating-character-replacement) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0202-happy-number) |
 ## Merge Sort
 |  |
 | ------- |
