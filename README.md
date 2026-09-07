@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0424-longest-repeating-character-replacement) |
+| [0940-distinct-subsequences-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0486-predict-the-winner) |
 | [0907-sum-of-subarray-minimums](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1406-stone-game-iii) |
 ## Simulation
