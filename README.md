@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0322-coin-change) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0460-lfu-cache) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0628-maximum-product-of-three-numbers) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0992-subarrays-with-k-different-integers) |
 | [1854-maximum-population-year](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1854-maximum-population-year) |
@@ -548,4 +552,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0210-course-schedule-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
