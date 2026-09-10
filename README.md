@@ -411,12 +411,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0654-maximum-binary-tree](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0654-maximum-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0100-same-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0199-binary-tree-right-side-view) |
 | [0654-maximum-binary-tree](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0654-maximum-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Combinatorics
 |  |
 | ------- |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
