@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1406-stone-game-iii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Simulation
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1552-magnetic-force-between-two-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3281-maximize-score-of-numbers-in-ranges) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3731-find-missing-elements) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/2498-frog-jump-ii) |
 | [3281-maximize-score-of-numbers-in-ranges](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3281-maximize-score-of-numbers-in-ranges) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Manideep3183/Leetcode_Grind/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Prefix Sum
