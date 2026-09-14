@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/1406-stone-game-iii) |
@@ -565,4 +566,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0229-majority-element-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Manideep3183/Leetcode_Grind/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
