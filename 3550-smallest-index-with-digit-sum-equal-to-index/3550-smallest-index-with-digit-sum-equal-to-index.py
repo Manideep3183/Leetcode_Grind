@@ -9,7 +9,7 @@ class Solution:
                 num = num // 10
             if i == d_sum:
                 return i
-                break
+    
         return -1
             
         
